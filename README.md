@@ -52,11 +52,11 @@ pip install send2trash
 python pdf_manager.py
 
 Menu Options:
-Scan and organize PDFs
-Search PDFs by name
-Show duplicate PDFs
-Move duplicates to Recycle Bin
-Exit
+-Scan and organize PDFs
+-Search PDFs by name
+-Show duplicate PDFs
+-Move duplicates to Recycle Bin
+-Exit
 
 🔐 Duplicate Handling
 Uses SHA-256 hashing (accurate detection)
